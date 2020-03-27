@@ -1,6 +1,4 @@
-# 基于React(Antd)+Express+MongoDB的王者荣耀后台管理
-
-## Vue版本的请前往 [基于vue(Element)+node(Express)+mongodb的王者荣耀手机端和管理后台](https://github.com/ly1994lyy/vue-node-moba)
+# 基于react16+antd+ react-router4+ react-redux+webpack+node+express+Mongo博客后台管理
 
 > ## 1.文件说明：
 - admin:使用create-react-app创建的所有前端页面文件
